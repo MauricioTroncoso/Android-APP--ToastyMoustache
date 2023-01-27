@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "545680456843",
+    "firebase_url": "https://toasty-moustache-default-rtdb.firebaseio.com",
+    "project_id": "toasty-moustache",
+    "storage_bucket": "toasty-moustache.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545680456843:android:537464a0e7910731c2a88e",
+        "android_client_info": {
+          "package_name": "com.example.toastymoustachebrotherhood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545680456843-rsop1vbac72gnpoqkv9tq86s5i3or66e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALmXiglVEFpDE4pA5ZvGJ9pi4-cmPaBig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545680456843-rsop1vbac72gnpoqkv9tq86s5i3or66e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
